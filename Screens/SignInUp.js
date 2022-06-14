@@ -8,14 +8,12 @@ export default class SignInUp extends Component {
         super(props)
     }
 
-    
-    
     render(){
         return(
             <View style={styles.container}>
                 <Text style={styles.h1}>Roommates</Text>
                 <Text style={styles.h1}>Plus</Text>
-                <Text>Solve all arguments, potention and current</Text>
+                <Text>Solve all arguments, potential and current</Text>
                 <Pressable
                     style={styles.button1}
                     onPress={() => {console.log("pressed signup");}}

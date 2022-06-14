@@ -1,0 +1,1 @@
+// this page will contain the splash screen
